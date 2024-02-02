@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-02T14:58:01 MYT" name="Default suite" finished-at="2024-02-02T14:58:07 MYT" duration-ms="5383">
+    <groups>
+    </groups>
+    <test started-at="2024-02-02T14:58:01 MYT" name="Default test" finished-at="2024-02-02T14:58:07 MYT" duration-ms="5383">
+      <class name="myTest.Program1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myTest.Program1@158d2680]" started-at="2024-02-02T14:58:01 MYT" name="setUp" finished-at="2024-02-02T14:58:04 MYT" duration-ms="2743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogo()[pri:0, instance:myTest.Program1@158d2680]" started-at="2024-02-02T14:58:04 MYT" name="verifyLogo" finished-at="2024-02-02T14:58:04 MYT" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:myTest.Program1@158d2680]" started-at="2024-02-02T14:58:04 MYT" name="tearDown" finished-at="2024-02-02T14:58:04 MYT" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myTest.Program1@158d2680]" started-at="2024-02-02T14:58:04 MYT" name="setUp" finished-at="2024-02-02T14:58:07 MYT" duration-ms="2366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTitle()[pri:0, instance:myTest.Program1@158d2680]" started-at="2024-02-02T14:58:07 MYT" name="verifyTitle" finished-at="2024-02-02T14:58:07 MYT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:myTest.Program1@158d2680]" started-at="2024-02-02T14:58:07 MYT" name="tearDown" finished-at="2024-02-02T14:58:07 MYT" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- myTest.Program1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
